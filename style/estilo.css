@@ -1,0 +1,119 @@
+body{
+	background:black;
+}
+
+header{
+	background:#CC99FF;
+	color:000000;
+	text-align: center;
+	padding-bottom:2px; 
+}
+
+nav{
+	background: #FF99CC;
+	color: white;
+	padding: 20px;
+	border-radius:5%;
+	float: left;
+	margin-right: 10px;
+	box-sizing: border-box;
+	border: 2px;
+	text-decoration: none;
+	font-family:Times New Roman;
+	cursor:hand;
+
+}
+nav a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+.section1{															
+	position : relative;
+	float:left;
+	box-sizing: border-box;
+	width: 48%;
+	color: white;
+	background: #CC99FF;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	padding-bottom: 5%;
+	margin-bottom: 1%;
+	margin-left: 7px;
+}
+
+	
+.section2{
+	position : relative;
+	float: right;
+	box-sizing: border-box;
+	width: 48%;
+	color: white;
+	background:#CC99FF;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	padding-bottom: 5%;
+	margin-bottom: 1%;
+}
+
+.section3{
+	position : relative;
+	float:left;
+	box-sizing: border-box;
+	width: 48%;
+	color: white;
+	background: #CC99FF;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	padding-bottom: 5%;
+	margin-bottom: 1%;
+	margin-left: 7px;
+	}
+.section4{
+	position : relative;
+	float: left;
+	box-sizing: border-box;
+	width: 48%;
+	color: white;
+	background: #CC99FF;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	padding-bottom: 5%;
+	}
+.section5{
+	position : relative;
+	float: left;
+	box-sizing: border-box;
+	width: 100%;
+	color: white;
+	background:#CC99FF;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	padding-bottom: 5%;
+	margin-bottom: 10px;
+}
+footer{
+	background: #FF9999;
+	position : relative;
+	float: left;
+	box-sizing: border-box;
+	width: 100%;
+	color: black;
+	padding: 10px; 
+	border-radius: 10px;
+	margin-right: 1em;
+	text-align: justify;
+	text-align: center;
+	font-family: castellana;
+	font-size: 80%;
+	margin-bottom: 10p
